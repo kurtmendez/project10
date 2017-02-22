@@ -79,8 +79,9 @@ border-radius: 5px;
 h1  {
 font-size: 120%;
 color: white;
-
+text-align: center;
 }
+
 
 h2 {
 font-size: 250%;
@@ -96,6 +97,7 @@ transform: translateY(-50%);
 
 p.white {
 color: white;
+font-family: Arial;
 }
 
 nav ul li {
