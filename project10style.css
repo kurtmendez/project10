@@ -13,7 +13,7 @@ border-radius: 5px;
 }
 
 nav ul {
-background-color: #000;
+background-color: black;
 margin: 10px;
 text-align: center;
 border-radius: 5px;
@@ -78,14 +78,14 @@ border-radius: 5px;
 
 h1  {
 font-size: 120%;
-color: white;
+color: red;
 text-align: center;
 }
 
 
 h2 {
 font-size: 250%;
-color: white;
+color: red;
 text-align: center;
 margin: 0px;
 position: relative;
@@ -95,8 +95,8 @@ top: 50%;
 transform: translateY(-50%);
 }
 
-p.white {
-color: white;
+p.red {
+color: red;
 font-family: Arial;
 }
 
@@ -108,11 +108,11 @@ nav ul li a {
 text-decoration: none;
 font-family: Arial;
 padding: .2em 1em;
-color: #fff;
-background-color: #000;
+color: red;
+background-color: #black;
 } 
 
 nav ul li a:hover {
-background-color: #fff;
-color: #000;
+background-color: black;
+color: white;
 }
