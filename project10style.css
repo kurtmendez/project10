@@ -1,5 +1,5 @@
 body {
-background-color: #9c9f84;
+background-color: red;
 margin: 0px;
 font-family: Verdana, Georgia, serif;
 font-size: 14px;
@@ -71,9 +71,13 @@ clear: right;
 footer {
 background-color: black;
 margin: 10px;
-height: 60px;
+height: 100px;
 clear: both;
 border-radius: 5px;
+text-decoration: none;
+font-family: Arial;
+padding: .2em 1em;
+color: black;
 }
 
 h1  {
