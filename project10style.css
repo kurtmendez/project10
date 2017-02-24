@@ -68,6 +68,17 @@ margin-bottom: 10px;
 clear: right;
 }
 
+.imageleft {
+width: 300px;
+float: left;
+border-radius: 5px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 0px;
+margin-bottom: 10px;
+clear: left;
+}
+
 footer {
 background-color: black;
 margin: 10px;
